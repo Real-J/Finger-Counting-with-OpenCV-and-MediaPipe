@@ -1,0 +1,1 @@
+# Finger-Counting-with-OpenCV-and-MediaPipe
